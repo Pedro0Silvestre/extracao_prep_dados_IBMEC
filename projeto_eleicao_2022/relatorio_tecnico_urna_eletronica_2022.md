@@ -343,7 +343,7 @@ A trajetória dos coeficientes estimados ao longo do estudo sintetiza o colapso 
 
 O cruzamento entre o modelo de urna e o tipo de localidade evidenciou a assimetria logística de distribuição implementada pela Justiça Eleitoral.
 
-![alt text](image-1.png)
+![alt text](graficos/image-1.png)
 
 ### Penetração das Urnas
 
