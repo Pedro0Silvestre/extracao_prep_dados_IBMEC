@@ -379,7 +379,7 @@ Como quase **80% das urnas das capitais eram UE2020** e quase **70% das urnas do
 
 A visualização regional desfez a premissa de que a urna UE2020 beneficiaria ou prejudicaria algum candidato.
 
-![alt text](image-2.png)
+![alt text](graficos/image-2.png)
 
 ### Proporção Uniforme do Hardware
 
